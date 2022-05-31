@@ -13,9 +13,8 @@ describe("makeing page object model", function(){
 
         })
 
+
     })
-
-
 
     it("Login with valid test data", function(){
         const basic = new BasePage();
